@@ -1,2 +1,2 @@
 # AjustaHora
-use para ajustar a hora no seu windows.
+use ajustaHora.bat para ajustar a hora do sistema.
